@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Page</title>
+</head>
+<body>
+    <h1>Download Image</h1>
+    <a href="https://yourwebsite.com/files/bookshelf - victorian thinker.png" download>Click here to download the PNG image</a>
+</body>
+</html>
